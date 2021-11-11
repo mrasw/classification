@@ -84,13 +84,12 @@ Proses : 4_PR_KR_PAGI_5.csv
 [[3 0]
 
  [2 3]]
+ 
               precision    recall  f1-score   support
 
          0.0       0.60      1.00      0.75         3
          1.0       1.00      0.60      0.75         5
 
-    accuracy                           0.75         8
-    
-   macro avg       0.80      0.80      0.75         8
-   
-weighted avg       0.85      0.75      0.75         8
+    accuracy                           0.75         8    
+    macro avg      0.80      0.80      0.75         8   
+    weighted avg   0.85      0.75      0.75         8
