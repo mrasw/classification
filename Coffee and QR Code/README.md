@@ -7,3 +7,7 @@ Robusta detail data in QR
 Arabica detail data in QR
 
 ![alt text](https://github.com/mrasw/classification/blob/main/Coffee%20and%20QR%20Code/qrcode2.png)
+
+Excelso detail in QR
+
+![alt text](https://github.com/mrasw/classification/blob/main/Coffee%20and%20QR%20Code/qrcode3.png)
